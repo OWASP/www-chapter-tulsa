@@ -5,9 +5,9 @@ title: OWASP Tulsa
 tags: example-tag
 level: 0
 
-region: United States
+region: Norht America
 
-meetup-group: OWASP-Tulsa-Chapter
+meetup-group: 
 country: USA
 postal-code: 74101
 
@@ -42,7 +42,9 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 
 ## Local News
 - Meeting Location
-- Everyone is welcome to join us at our chapter meetings.
+- Everyone is welcome to join us at our chapter meetings.  Visit our Meetup Group for the next upcoming meeting.
+
+{% include chapter_events.html group=page.meetup-group %}
 
 ```
 {info.md}
