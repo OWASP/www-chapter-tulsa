@@ -5,8 +5,9 @@ title: OWASP Tulsa
 tags: example-tag
 level: 0
 
-region: Norht America
+region: North America
 
+auto-migrated: 1
 meetup-group: 
 country: USA
 postal-code: 74101
