@@ -15,7 +15,7 @@ postal-code: 74103
 ---
 
 ## Welcome
-Welcome to OWASP Tulsa. We began in 2019, and then re-booted in 2022 when we were able to resume in-person meetups. We are part of a strong Tulsa tech & security community that overlaps with a number of organizations and events. OWASP Tulsa especially focuses on the OWASP mission to improve the security of software by hosting bi-weekly meetups to train software developers in tools and techniques to secure their applications:
+Welcome to OWASP Tulsa. We began in 2019, and then re-booted in 2022 when we were able to resume in-person meetups. We are part of a strong Tulsa tech & security community that overlaps with a number of organizations and events. OWASP Tulsa especially focuses on the OWASP mission to improve the security of software by hosting bi-weekly meetups (at [36°N](https://www.36n.co/)) to train software developers in tools and techniques to secure their applications:
 
 * 2nd Tuesday of every month: Training meetup with an application security presentation
 * 4th Tuesday of every month: "Hack Night" to learn application pen-testing tools and/or a CTF competition
