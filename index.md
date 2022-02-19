@@ -7,7 +7,6 @@ level: 0
 
 region: North America
 
-auto-migrated: 1
 meetup-group: OWASP-Tulsa-Chapter
 country: USA
 postal-code: 74103
