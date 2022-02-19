@@ -32,6 +32,6 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 
 ## Local News
 - Meeting Location: [36°N](https://www.36n.co/)
-- Everyone is welcome to join us at our chapter meetings.  Visit our Meetup Group for the next upcoming meeting.
+- Everyone is welcome to join us at our chapter meetings.  Visit our [Meetup Group](https://www.meetup.com/OWASP-Tulsa-Chapter/) for the next upcoming meeting.
 
 {% include chapter_events.html group=page.meetup-group %}
