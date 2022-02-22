@@ -2,4 +2,4 @@
 * North America
 
 ### Social Links
-* [Meetup](https://www.meetup.com/OWASP-Tulsa-Chapter/)
+* [Meetup](https://www.meetup.com/meetup-group-vasisbgr/)
