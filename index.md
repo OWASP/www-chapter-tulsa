@@ -19,11 +19,6 @@ Welcome to OWASP Tulsa. We began in 2019, and then re-booted in 2022 when we wer
 * 2nd Tuesday of every month: Training meetup with an application security presentation
 * 4th Tuesday of every month: "Hack Night" to learn application pen-testing tools and/or a CTF competition
 
-Some other groups and events to check out:
-* [Techlahoma](https://www.techlahoma.org/) - State-wide tech community
-* [BSidesOK](https://bsidesok.com/) - InfoSec Conference
-* [TU Cyber Summit](https://engineering.utulsa.edu/cyber-security-leadership-technology-summit/) - CyberSecurity conference
-
 ## OWASP Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
 
